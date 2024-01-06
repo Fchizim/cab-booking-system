@@ -7,4 +7,4 @@ This is a cab booking system as thr name inmplies it is used to book cabs
 4. PHP
 
 # Follow me on
-Twitter - (@fred_chizim)[https://www.twitter.com/fred_chizim "Fred"]
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim "Fred")
